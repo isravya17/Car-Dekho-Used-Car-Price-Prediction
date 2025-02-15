@@ -4,11 +4,11 @@ The project aim is to build a machine learning model that offers users to find c
 
 ## Technologies:
 
-    Python Scripting
-    Data Cleaning
-    Exploratory Data Analysis (EDA)
-    Visualization
-    Machine Learning
+    - Python Scripting
+    - Data Cleaning
+    - Exploratory Data Analysis (EDA)
+    - Visualization
+    - Machine Learning
 
 ## Domain:
 
